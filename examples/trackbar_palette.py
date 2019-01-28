@@ -1,3 +1,10 @@
+'''
+Title: Image Processing and Machine Vision course examples
+Author : Farrokh Karimi (https://www.linkedin.com/in/farrokhkarimi/)
+Source : https://github.com/telecomp/OpenCV
+Reference : https://opencv.org/
+'''
+
 import cv2
 import numpy as np
 
