@@ -12,4 +12,5 @@ Farrokh Karimi [[LinkedIn](https://www.linkedin.com/in/farrokhkarimi/), [Instagr
 
 **References:**  
 [https://opencv-python-tutroals.readthedocs.io/en/latest/](https://opencv-python-tutroals.readthedocs.io/en/latest/)  
-Digital Image Processing, Rafael C. Gonzalez
+“Digital Image Processing”, Rafael C. Gonzalez  
+“Computer Vision: Algorithms and Applications”, Richard Szeliski
