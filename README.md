@@ -1,7 +1,4 @@
-# OpenCV
-Image Processing and Machine Vision
-
-# Python Programming Language
+# Image Processing and Machine Vision
 In this course we will learn about Image Processing and Machine Vision from scratch to advanced.
 
 Let's go to the start at [here](https://github.com/telecomp/OpenCV/wiki).
