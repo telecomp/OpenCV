@@ -10,5 +10,6 @@ Farrokh Karimi [[LinkedIn](https://www.linkedin.com/in/farrokhkarimi/), [Instagr
 
 ---
 
-**Reference:**  
-[https://opencv-python-tutroals.readthedocs.io/en/latest/](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+**References:**  
+[https://opencv-python-tutroals.readthedocs.io/en/latest/](https://opencv-python-tutroals.readthedocs.io/en/latest/)  
+Digital Image Processing, Rafael C. Gonzalez
