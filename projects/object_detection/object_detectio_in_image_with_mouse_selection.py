@@ -11,7 +11,7 @@ cropping = False
  
 x_start, y_start, x_end, y_end = 0, 0, 0, 0
  
-image = cv2.imread('1_main_photo.jpg')
+image = cv2.imread('sample_object.jpg')
 oriImage = image.copy()
  
  
@@ -66,7 +66,7 @@ while True:
         break
  
 Mbox('نتیجه', 'قسمت مورد نظر در تصویر جستجو میشود و اشیای مشابه در تصویر مشخص میشودند.', 0)
-img_rgb = cv2.imread('1_main_photo.jpg')
+img_rgb = cv2.imread('sample_object.jpg')
 img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_BGR2GRAY)
 
 template = cv2.imread('element.jpg',0)
